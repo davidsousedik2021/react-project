@@ -1,7 +1,7 @@
-# React Essential Training
+# React Essentials
 
 ## Introduction
-- Course introduction
+- Agenda
 - Overview of modern React best practices
 
 ---
